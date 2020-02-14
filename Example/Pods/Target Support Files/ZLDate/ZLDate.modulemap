@@ -1,0 +1,6 @@
+framework module ZLDate {
+  umbrella header "ZLDate-umbrella.h"
+
+  export *
+  module * { export * }
+}
